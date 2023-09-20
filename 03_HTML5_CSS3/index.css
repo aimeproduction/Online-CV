@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+    /*background-image: url('image.jpg');*/
+}
+
+h2{
+    color: red;
+    border: 5px ridge black;
+    box-shadow: 5px 5px 50px grey;
+}
+
+h1{
+    color: blue;
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+    /*border-width: 5px;
+    border-style: ridge;
+    border-color: black;
+    /*border: 5px ridge black;
+    border-top: 1px solid black;*/
+}
+
+a:hover{
+    color: red;
+}
